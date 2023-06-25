@@ -17,7 +17,7 @@
 
 
 <p align="center">
-  ![oop](https://github.com/MuhammadAli511/Match-3-game/assets/83888735/a8299de0-6120-4359-9ee6-0ab593dcf2e9)
+  <img src="https://github.com/MuhammadAli511/Match-3-game/assets/83888735/a8299de0-6120-4359-9ee6-0ab593dcf2e9">
 </p>
 
 
